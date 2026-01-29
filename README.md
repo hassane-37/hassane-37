@@ -6,7 +6,6 @@
 
 ##  About Me  
 I am a double-degree engineering student at **Télécom Saint-Étienne**, passionate about software engineering, artificial intelligence, and DevOps.  
-My goal is to apply my technical skills in a professional environment and grow as a software and AI engineer.  
 
 
 ---
